@@ -3,6 +3,27 @@
 Курсовой проект по курсу Angularjs - 2017 - 0504 - 2130
 
 
+## Project mockup
+
+Текущий mockup проекта доступен [по этой ссылке](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Login?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+
+Кнопки Login, Logout, а также большинство табов кликабельны, и по кликам можно
+переходить между страницами, как в реальном приложении. Тем не менее, вот список
+ссылок по страницам:
+
+ - [Форма авторизации](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Login?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, временной срез данных, 1 день](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Main1day?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, временной срез данных, 3 дня, по дням](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Main3days?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, временной срез данных, 3 дня, общий](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Main3DaysTotal?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, срез данных по категориям, 3 дня (это общий вид для любого интервала времени)](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Main3DaysCategoryBased?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, временной срез данных, 1 неделя, по дням](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/MainWeek?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Основная вкладка, веменной срез данных, 1 неделя, общий](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/MainWeekTotal?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Вкладка редактирования / добавления расходов](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Expenses?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Вкладка редактирования / добавления категорий, таблица](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/CategoriesTabular?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Вкладка редактирования / добавления категорий, дерево](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/CategoriesTreeView?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+ - [Вкладка редактирования / добавления тэгов](https://lshifr.mybalsamiq.com/projects/expensemanagerangular/prototype/Tags?key=cc460a5922fe69d89ec07db5ee3c21421e1d80d5)
+
+
 ## Краткое описание
 
 Одностраничное приложение для учета личных финансов.
